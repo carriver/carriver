@@ -2,7 +2,7 @@
 
 Join me on my journey to become a Full Stack Developer. I hope you enjoy my projects!
 
-## My tech Stack
+## My Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
