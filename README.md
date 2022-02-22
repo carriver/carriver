@@ -33,3 +33,5 @@ Join me on my journey to become a Full Stack Developer. I hope you enjoy my proj
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=carriver&count_private=true&show_icons=true&include_all_commits=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carriver&hide=TeX&layout=compact)
+
+git config pull.rebase true 
