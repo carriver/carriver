@@ -4,7 +4,7 @@ Join me on my journey to become a Full Stack Developer! Check out my repositorie
 
 ### My Tech Stack and Metrics:
 
-![](https://komarev.com/ghpvc/?username=your-github-username)
+![](https://komarev.com/ghpvc/?username=carriver)
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
