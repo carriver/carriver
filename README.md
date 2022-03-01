@@ -4,6 +4,9 @@ Join me on my journey to become a Full Stack Developer. I hope you enjoy my proj
 
 ### My Tech Stack and Metrics:
 
+![](https://komarev.com/ghpvc/?username=carriver)
+
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
