@@ -1,6 +1,6 @@
 ## Hola! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-Join me on my journey to become a Full Stack Developer. I hope you enjoy my projects!
+Join me on my journey to become a Full Stack Developer! Check out my repositories and portfolio website to see what I've been up to.
 
 ### My Tech Stack and Metrics:
 
