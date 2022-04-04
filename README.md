@@ -32,4 +32,4 @@ Join me on my journey to become a Full Stack Developer! Check out my repositorie
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=carriver&count_private=true&show_icons=true&include_all_commits=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carriver&hide=TeX&layout=compact&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carriver&hide=TeX&layout=compact)
