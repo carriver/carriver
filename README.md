@@ -41,4 +41,10 @@ Join me on my journey to become a Full Stack Developer! Check out my repositorie
 
 <!--START_SECTION:waka-->
 
+```text
+From: 01 April 2022 - To: 08 April 2022
+
+Java                   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 %
+```
+
 <!--END_SECTION:waka-->
