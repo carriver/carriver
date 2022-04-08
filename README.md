@@ -12,6 +12,9 @@ Join me on my journey to become a Full Stack Developer! Check out my repositorie
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code)
+![Netbeans](https://img.shields.io/badge/-Netbeans-black?style=flat-square&logo=apachenetbeanside)
+![IntelliJ](https://img.shields.io/badge/-IntelliJ-black?style=flat-square&logo=intellijidea)
+
 
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
