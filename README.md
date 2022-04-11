@@ -39,6 +39,8 @@ Join me on my journey to become a Full Stack Developer! Check out my repositorie
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carriver&count_private=true&hide=TeX&layout=compact)
 
+#### WakaTime Metrics:
+
 <!--START_SECTION:waka-->
 
 ```text
