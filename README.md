@@ -39,7 +39,7 @@ Join me on my journey to become a Full Stack Developer! Check out my <a href="ht
 
 #### WakaTime Metrics:
 
-Below is an overview of the programming languages I've used the last 7 days. 
+Below is an overview of the programming languages I've used for the last 7 days. 
 
 My [WakaTime profile](https://wakatime.com/@carriver "WakaTime profile") shows a complete breakdown by programming languages, IDE's and operating systems.
 
