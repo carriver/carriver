@@ -1,6 +1,6 @@
 ## Hola! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-Join me on my journey to become a Full Stack Developer! Check out my repositories and portfolio website to see what I've been up to.
+Join me on my journey to become a Full Stack Developer! Check out my <a href="https://github.com/carriver?tab=repositories" target="_blank">repositories</a> and <a href="https://carlosriver.com/" target="_blank">portfolio</a> website to see what I've been up to.
 
 ### My Tech Stack and Metrics:
 
@@ -17,8 +17,6 @@ Join me on my journey to become a Full Stack Developer! Check out my repositorie
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
 ![Material-UI](https://img.shields.io/badge/-Material%20UI-black?style=flat-square&logo=mui)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-black?style=flat-square&logo=graphql)
-![Apollo GraphQL](https://img.shields.io/badge/-Apollo%20GraphQL-black?style=flat-square&logo=apollo-graphql)
-![Postman](https://img.shields.io/badge/Postman-black?style=flat-square&logo=postman)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
 
 
@@ -31,8 +29,8 @@ Join me on my journey to become a Full Stack Developer! Check out my repositorie
 
 ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-black?style=flat-square&logo=amazon-aws)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
 ![Firebase](https://img.shields.io/badge/Firebase-black?style=flat-square&logo=firebase)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
 ![Google Chrome](https://img.shields.io/badge/Chrome-black?style=flat-square&logo=google-chrome)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=carriver&count_private=true&show_icons=true)
@@ -40,6 +38,10 @@ Join me on my journey to become a Full Stack Developer! Check out my repositorie
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carriver&count_private=true&hide=TeX&layout=compact)
 
 #### WakaTime Metrics:
+
+Below is an overview of the programming languages I've used the last 7 days. 
+
+My [WakaTime profile](https://wakatime.com/@carriver "WakaTime profile") shows a complete breakdown by programming languages, IDE's and operating systems.
 
 <!--START_SECTION:waka-->
 
