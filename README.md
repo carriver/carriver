@@ -1,6 +1,6 @@
 ## Hola! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-Join me on my journey to become a Full Stack Developer! Check out my <a href="https://github.com/carriver?tab=repositories" target="_blank">repositories</a> and <a href="https://carlosriver.com/" target="_blank">portfolio</a> website to see what I've been up to.
+Check out my <a href="https://github.com/carriver?tab=repositories" target="_blank">repositories</a> and <a href="https://carlosriver.com/" target="_blank">portfolio</a> website to see what I've been up to.
 
 ### My Tech Stack and Metrics:
 
