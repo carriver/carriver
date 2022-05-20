@@ -39,14 +39,4 @@ Check out my <a href="https://github.com/carriver?tab=repositories" target="_bla
 
 #### WakaTime Metrics:
 
-Below is an overview of the programming languages I've used for the last 7 days. 
-
 My [WakaTime profile](https://wakatime.com/@carriver "WakaTime profile") shows a complete breakdown by programming languages, IDE's and operating systems.
-
-<!--START_SECTION:waka-->
-
-```text
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
